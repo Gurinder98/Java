@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.target=FirstLastList
+comment0.text=\r\n\ Gurinder\ Singh\r\n\ 1152715\r\n\ 9/26/18\r\n
+comment1.params=
+comment1.target=FirstLastList()
+comment10.params=
+comment10.target=Link\ first()
+comment11.params=f
+comment11.target=void\ setFirst(Link)
+comment12.params=l
+comment12.target=void\ setLast(Link)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=dd
+comment3.target=Link\ insertFirst(long)
+comment3.text=public\ void\ insertFirst(long\ dd)\ \ //\ insert\ at\ front\ of\ list\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ Link\ newLink\ \=\ new\ Link(dd);\ \ \ //\ make\ new\ link\r\n\r\n\ \ \ \ \ \ \ \ if(\ isEmpty()\ )\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //\ if\ empty\ list,\r\n\ \ \ \ \ \ \ \ \ \ \ \ last\ \=\ newLink;\ \ \ \ \ \ \ \ \ \ \ \ \ //\ newLink\ <--\ last\r\n\ \ \ \ \ \ \ \ newLink.next\ \=\ first;\ \ \ \ \ \ \ \ \ \ //\ newLink\ -->\ old\ first\r\n\ \ \ \ \ \ \ \ first\ \=\ newLink;\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //\ first\ -->\ newLink\r\n}
+comment4.params=dd
+comment4.target=void\ insertLast(long)
+comment5.params=
+comment5.target=Link\ deleteFirst()
+comment6.params=
+comment6.target=void\ displayList()
+comment7.params=head1\ head2
+comment7.target=void\ merge(Link,\ Link)
+comment8.params=
+comment8.target=long\ getLast()
+comment9.params=
+comment9.target=Link\ getlast()
+numComments=13

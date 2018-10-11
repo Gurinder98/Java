@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=LinkList
+comment0.text=\r\n\ Gurinder\ Singh\r\n\ 1152715\r\n\ 9/26/18\r\n
+comment1.params=
+comment1.target=LinkList()
+comment10.params=
+comment10.target=Link\ First()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=dd
+comment3.target=void\ insertFirst(long)
+comment4.params=
+comment4.target=Link\ deleteFirst()
+comment5.params=
+comment5.target=void\ displayList()
+comment6.params=
+comment6.target=int\ getSize()
+comment7.params=num
+comment7.target=int\ search(int)
+comment8.params=key
+comment8.target=void\ remove(long)
+comment9.params=
+comment9.target=long\ getFirst()
+numComments=11

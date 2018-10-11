@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LinkStack
+comment0.text=\r\n\ Gurinder\ Singh\r\n\ 1152715\r\n\ 10/1/18\r\n\r\n
+comment1.params=
+comment1.target=LinkStack()
+comment2.params=j
+comment2.target=void\ push(long)
+comment3.params=
+comment3.target=Link\ pop()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=void\ displayStack()
+comment6.params=
+comment6.target=void\ dup()
+comment7.params=
+comment7.target=void\ swap2and3()
+numComments=8

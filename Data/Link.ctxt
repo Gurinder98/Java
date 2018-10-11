@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Link
+comment0.text=\r\n\ Gurinder\ Singh\r\n\ 1152715\r\n\ 9/26/18\r\n
+comment1.params=id
+comment1.target=Link(long)
+comment2.params=
+comment2.target=void\ displayLink()
+comment3.params=set
+comment3.target=void\ setNext(Link)
+comment4.params=
+comment4.target=Link\ getNext()
+numComments=5

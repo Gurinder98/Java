@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ArrayBub
+comment0.text=\r\n\ Gurinder\ Singh\r\n\ 1152715\r\n\ 9/15/18\r\n
+comment1.params=max
+comment1.target=ArrayBub(int)
+comment2.params=value
+comment2.target=void\ insert(long)
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ bubbleSort()
+comment5.params=one\ two
+comment5.target=void\ swap(int,\ int)
+comment6.params=items\ size
+comment6.target=void\ bubbleSort2(ArrayBub,\ int)
+comment7.params=items\ end
+comment7.target=void\ moveMaxToEnd(ArrayBub,\ int)
+numComments=8

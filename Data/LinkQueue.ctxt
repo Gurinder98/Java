@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LinkQueue
+comment0.text=\r\n\ Gurinder\ Singh\r\n\ 1152715\r\n\ 10/1/18\r\n\r\n
+comment1.params=
+comment1.target=LinkQueue()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=j
+comment3.target=void\ insert(long)
+comment4.params=
+comment4.target=Link\ remove()
+comment5.params=
+comment5.target=void\ displayQueue()
+comment6.params=
+comment6.target=java.lang.Object\ last()
+comment7.params=queue
+comment7.target=void\ append(LinkQueue)
+numComments=8

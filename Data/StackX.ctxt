@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=StackX
+comment0.text=\r\n\ Gurinder\ Singh\r\n\ 1152715\r\n\ 9/22/18\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=s
+comment1.target=StackX(int)
+comment10.params=s\ t
+comment10.target=void\ transfer(StackX,\ StackX)
+comment2.params=j
+comment2.target=void\ push(long)
+comment3.params=
+comment3.target=long\ pop()
+comment4.params=
+comment4.target=long\ peek()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment6.params=
+comment6.target=boolean\ isFull()
+comment7.params=
+comment7.target=int\ size()
+comment8.params=arr
+comment8.target=void\ display(StackX)
+comment9.params=stack\ ob
+comment9.target=void\ removeDownTo(StackX,\ long)
+numComments=11
